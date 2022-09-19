@@ -1,0 +1,24 @@
+"search for" <object> #Wikipedia
+"what is","what's","who is","who's","where is" <object> #Wolfram|alpha
+"calculate" <object> #Wolfram|alpha
+"the time","what is the time" #Gives the Time
+"open youtube" #Opens Youtube
+"open spotify" #opens spotify
+"play spotify" #plays spotify (must have spotify open first)
+"pause spotify" #plays spotify (must have spotify open first)
+"jade shutdown" #Exits jade
+"who made you", "who created you" #Tells you about me https://github.com/MrBlazin
+"thank", "thanks" #Your welcome :)
+"who am i" #Gives the description of yourself you put in the CUSTOMIZE THIS.txt file
+"jade echo" <Words> #echos those words back to you
+"who are you" #Gives a brief description of who she is
+"what is love" #Find out for yourself :)
+"how are you" #Tells you how she's doing
+"i love you" #Find out for yourself :)
+"hibernate" or "jade sleep" #Sleepy time
+"log off" or "sign out" #Shutsdown computer (You have time to close your stuff)
+"lock screen" #Locks the computer
+"empty recycle bin" #empties recycle bin
+"hey jade", "jade" #Gets her attention
+
+
